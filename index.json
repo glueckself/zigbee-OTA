@@ -2339,6 +2339,7 @@
     },
     {
         "fileVersion": 587757106,
+	"force": true,
         "fileSize": 215596,
         "manufacturerCode": 4476,
         "imageType": 8705,
@@ -2347,6 +2348,7 @@
     },
     {
         "fileVersion": 587765298,
+	"force": true,
         "fileSize": 209136,
         "manufacturerCode": 4476,
         "imageType": 4353,
@@ -2355,6 +2357,7 @@
     },
     {
         "fileVersion": 587699762,
+	"force": true,
         "fileSize": 192136,
         "manufacturerCode": 4476,
         "imageType": 4549,
@@ -2363,6 +2366,7 @@
     },
     {
         "fileVersion": 587806258,
+	"force": true,
         "fileSize": 227500,
         "manufacturerCode": 4476,
         "imageType": 10243,
@@ -2371,6 +2375,7 @@
     },
     {
         "fileVersion": 587757106,
+	"force": true,
         "fileSize": 215340,
         "manufacturerCode": 4476,
         "imageType": 8707,
@@ -2379,6 +2384,7 @@
     },
     {
         "fileVersion": 587761202,
+	"force": true,
         "fileSize": 200000,
         "manufacturerCode": 4476,
         "imageType": 4487,
@@ -2387,6 +2393,7 @@
     },
     {
         "fileVersion": 587753010,
+	"force": true,
         "fileSize": 197052,
         "manufacturerCode": 4476,
         "imageType": 4354,
@@ -2395,6 +2402,7 @@
     },
     {
         "fileVersion": 587814450,
+	"force": true,
         "fileSize": 214716,
         "manufacturerCode": 4476,
         "imageType": 16900,
@@ -2403,6 +2411,7 @@
     },
     {
         "fileVersion": 537011748,
+	"force": true,
         "fileSize": 186814,
         "manufacturerCode": 4476,
         "imageType": 4552,
@@ -2411,6 +2420,7 @@
     },
     {
         "fileVersion": 587728434,
+	"force": true,
         "fileSize": 193800,
         "manufacturerCode": 4476,
         "imageType": 4554,
@@ -2419,6 +2429,7 @@
     },
     {
         "fileVersion": 587806258,
+	"force": true,
         "fileSize": 211572,
         "manufacturerCode": 4476,
         "imageType": 16643,
@@ -2427,6 +2438,7 @@
     },
     {
         "fileVersion": 587757106,
+	"force": true,
         "fileSize": 215884,
         "manufacturerCode": 4476,
         "imageType": 16902,
@@ -2435,6 +2447,7 @@
     },
     {
         "fileVersion": 587757106,
+	"force": true,
         "fileSize": 215656,
         "manufacturerCode": 4476,
         "imageType": 16901,
@@ -2443,6 +2456,7 @@
     },
     {
         "fileVersion": 587728434,
+	"force": true,
         "fileSize": 191828,
         "manufacturerCode": 4476,
         "imageType": 4550,
@@ -2451,6 +2465,7 @@
     },
     {
         "fileVersion": 268572246,
+	"force": true,
         "fileSize": 228582,
         "manufacturerCode": 4476,
         "imageType": 10242,
@@ -2459,6 +2474,7 @@
     },
     {
         "fileVersion": 65570,
+	"force": true,
         "fileSize": 230566,
         "manufacturerCode": 4476,
         "imageType": 16644,
@@ -2467,6 +2483,7 @@
     },
     {
         "fileVersion": 65553,
+	"force": true,
         "fileSize": 227662,
         "manufacturerCode": 4476,
         "imageType": 8450,
@@ -2475,6 +2492,7 @@
     },
     {
         "fileVersion": 65555,
+	"force": true,
         "fileSize": 236794,
         "manufacturerCode": 4476,
         "imageType": 8709,
@@ -2483,6 +2501,7 @@
     },
     {
         "fileVersion": 65539,
+	"force": true,
         "fileSize": 253042,
         "manufacturerCode": 4476,
         "imageType": 16649,
@@ -2491,6 +2510,7 @@
     },
     {
         "fileVersion": 582,
+	"force": true,
         "fileSize": 218698,
         "manufacturerCode": 4476,
         "imageType": 4555,
@@ -2499,6 +2519,7 @@
     },
     {
         "fileVersion": 65539,
+	"force": true,
         "fileSize": 220362,
         "manufacturerCode": 4476,
         "imageType": 4365,
@@ -2507,6 +2528,7 @@
     },
     {
         "fileVersion": 69636,
+	"force": true,
         "fileSize": 259294,
         "manufacturerCode": 4476,
         "imageType": 8708,
@@ -2515,6 +2537,7 @@
     },
     {
         "fileVersion": 69634,
+	"force": true,
         "fileSize": 231282,
         "manufacturerCode": 4476,
         "imageType": 4364,
@@ -2523,6 +2546,7 @@
     },
     {
         "fileVersion": 65543,
+	"force": true,
         "fileSize": 212454,
         "manufacturerCode": 4476,
         "imageType": 16645,
@@ -2531,6 +2555,7 @@
     },
     {
         "fileVersion": 587753010,
+	"force": true,
         "fileSize": 215340,
         "manufacturerCode": 4476,
         "imageType": 16641,
@@ -2539,6 +2564,7 @@
     },
     {
         "fileVersion": 587814450,
+	"force": true,
         "fileSize": 216620,
         "manufacturerCode": 4476,
         "imageType": 8706,
@@ -2547,6 +2573,7 @@
     },
     {
         "fileVersion": 587810354,
+	"force": true,
         "fileSize": 207340,
         "manufacturerCode": 4476,
         "imageType": 8449,
@@ -2555,6 +2582,7 @@
     },
     {
         "fileVersion": 587757106,
+	"force": true,
         "fileSize": 215852,
         "manufacturerCode": 4476,
         "imageType": 16898,
@@ -2563,6 +2591,7 @@
     },
     {
         "fileVersion": 587757106,
+	"force": true,
         "fileSize": 215596,
         "manufacturerCode": 4476,
         "imageType": 16897,
@@ -2571,6 +2600,7 @@
     },
     {
         "fileVersion": 604241926,
+	"force": true,
         "fileSize": 207084,
         "manufacturerCode": 4476,
         "imageType": 4545,
@@ -2580,6 +2610,7 @@
     {
         "fileVersion": 604241926,
         "fileSize": 214316,
+	"force": true,
         "manufacturerCode": 4476,
         "imageType": 4548,
         "sha512": "48c372c3d3b30585d987c7447591b3742301e83b5133360f57f59b2d81c8499c4fac9b32fec386dc48fe8b33502a095e29b3dd5bb45382550ef471e24d7a64a4",
@@ -2587,6 +2618,7 @@
     },
     {
         "fileVersion": 587367986,
+	"force": true,
         "fileSize": 179390,
         "manufacturerCode": 4476,
         "imageType": 4546,
@@ -2594,6 +2626,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/159701-2.1-TRADFRI-wireless-dimmer-2.3.028.ota.ota.signed"
     },
     {
+	"force": true,
         "fileVersion": 374866366,
         "fileSize": 169662,
         "manufacturerCode": 4476,
@@ -2602,6 +2635,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/190579-ncp_572_445.ebl.ota.ota.signed"
     },
     {
+	"force": true,
         "fileVersion": 587798066,
         "fileSize": 214572,
         "manufacturerCode": 4476,
