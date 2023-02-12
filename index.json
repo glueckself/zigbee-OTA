@@ -2338,7 +2338,7 @@
         "path": "images/Namron/4512700-Firmware-35.ota"
     },
     {
-        "fileVersion": 587757105,
+        "fileVersion": 587757106,
         "fileSize": 215596,
         "manufacturerCode": 4476,
         "imageType": 8705,
@@ -2346,7 +2346,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10035514-2.1-TRADFRI-bulb-ws-2.3.087.ota.ota.signed"
     },
     {
-        "fileVersion": 587765297,
+        "fileVersion": 587765298,
         "fileSize": 209136,
         "manufacturerCode": 4476,
         "imageType": 4353,
@@ -2354,7 +2354,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10005777-TRADFRI-control-outlet-2.3.089.ota.ota.signed"
     },
     {
-        "fileVersion": 587699761,
+        "fileVersion": 587699762,
         "fileSize": 192136,
         "manufacturerCode": 4476,
         "imageType": 4549,
@@ -2362,7 +2362,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10005778-10.1-TRADFRI-onoff-shortcut-control-2.3.079.ota.ota.signed"
     },
     {
-        "fileVersion": 587806257,
+        "fileVersion": 587806258,
         "fileSize": 227500,
         "manufacturerCode": 4476,
         "imageType": 10243,
@@ -2370,7 +2370,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10035515-TRADFRI-bulb-cws-2.3.093.ota.ota.signed"
     },
     {
-        "fileVersion": 587757105,
+        "fileVersion": 587757106,
         "fileSize": 215340,
         "manufacturerCode": 4476,
         "imageType": 8707,
@@ -2378,7 +2378,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10035534-2.1-TRADFRI-bulb-ws-gu10-2.3.087.ota.ota.signed"
     },
     {
-        "fileVersion": 587761201,
+        "fileVersion": 587761202,
         "fileSize": 200000,
         "manufacturerCode": 4476,
         "imageType": 4487,
@@ -2386,7 +2386,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10037585-5.1-TRADFRI-connected-blind-2.3.088.ota.ota.signed"
     },
     {
-        "fileVersion": 587753009,
+        "fileVersion": 587753010,
         "fileSize": 197052,
         "manufacturerCode": 4476,
         "imageType": 4354,
@@ -2394,7 +2394,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10037603-3.1-TRADFRI-signal-repeater-2.3.086.ota.ota.signed"
     },
     {
-        "fileVersion": 587814449,
+        "fileVersion": 587814450,
         "fileSize": 214716,
         "manufacturerCode": 4476,
         "imageType": 16900,
@@ -2402,7 +2402,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10038562-2.1-TRADFRI-sy5882-bulb-ws-2.3.095.ota.ota.signed"
     },
     {
-        "fileVersion": 537011747,
+        "fileVersion": 537011748,
         "fileSize": 186814,
         "manufacturerCode": 4476,
         "imageType": 4552,
@@ -2410,7 +2410,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10039874-1.0-TRADFRI-motion-sensor-2-2.0.022.ota.ota.signed"
     },
     {
-        "fileVersion": 587728433,
+        "fileVersion": 587728434,
         "fileSize": 193800,
         "manufacturerCode": 4476,
         "imageType": 4554,
@@ -2418,7 +2418,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10043101-3.1-TRADFRI-dimmer-2.3.080.ota.ota.signed"
     },
     {
-        "fileVersion": 587806257,
+        "fileVersion": 587806258,
         "fileSize": 211572,
         "manufacturerCode": 4476,
         "imageType": 16643,
@@ -2426,7 +2426,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10046695-1.1-TRADFRI-light-unified-w-2.3.093.ota.ota.signed"
     },
     {
-        "fileVersion": 587757105,
+        "fileVersion": 587757106,
         "fileSize": 215884,
         "manufacturerCode": 4476,
         "imageType": 16902,
@@ -2434,7 +2434,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10047227-1.2-TRADFRI-cv-cct-unified-2.3.087.ota.ota.signed"
     },
     {
-        "fileVersion": 587757105,
+        "fileVersion": 587757106,
         "fileSize": 215656,
         "manufacturerCode": 4476,
         "imageType": 16901,
@@ -2442,7 +2442,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10050896-TRADFRI-sy5882-unified-2.3.087.ota.ota.signed"
     },
     {
-        "fileVersion": 587728433,
+        "fileVersion": 587728434,
         "fileSize": 191828,
         "manufacturerCode": 4476,
         "imageType": 4550,
@@ -2450,7 +2450,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10054470-TRADFRI-shortcut-button-2.3.080.ota.ota.signed"
     },
     {
-        "fileVersion": 268572245,
+        "fileVersion": 268572246,
         "fileSize": 228582,
         "manufacturerCode": 4476,
         "imageType": 10242,
@@ -2458,7 +2458,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10057275-mgm210l_light_cws_cv_rgbw_1.0.021.ota.ota.signed"
     },
     {
-        "fileVersion": 65569,
+        "fileVersion": 65570,
         "fileSize": 230566,
         "manufacturerCode": 4476,
         "imageType": 16644,
@@ -2466,7 +2466,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10075356-zingo_sigma_driver_silverglans_ww-1.0.021.ota.ota.signed"
     },
     {
-        "fileVersion": 65552,
+        "fileVersion": 65553,
         "fileSize": 227662,
         "manufacturerCode": 4476,
         "imageType": 8450,
@@ -2474,7 +2474,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10076691-zingo_lds_bulb_hwpwm_ww-1.0.010.ota.ota.signed"
     },
     {
-        "fileVersion": 65554,
+        "fileVersion": 65555,
         "fileSize": 236794,
         "manufacturerCode": 4476,
         "imageType": 8709,
@@ -2482,7 +2482,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10076692-zingo_lds_bulb_hwpwmcs_ws-1.0.012.ota.ota.signed"
     },
     {
-        "fileVersion": 65538,
+        "fileVersion": 65539,
         "fileSize": 253042,
         "manufacturerCode": 4476,
         "imageType": 16649,
@@ -2490,7 +2490,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10077684-zingo_ikea_driver_hwpwm_ww-1.0.002.ota.ota.signed"
     },
     {
-        "fileVersion": 581,
+        "fileVersion": 582,
         "fileSize": 218698,
         "manufacturerCode": 4476,
         "imageType": 4555,
@@ -2498,7 +2498,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10078031-zingo_kt_styrbar_remote-2.4.5.ota.ota.signed"
     },
     {
-        "fileVersion": 65538,
+        "fileVersion": 65539,
         "fileSize": 220362,
         "manufacturerCode": 4476,
         "imageType": 4365,
@@ -2506,7 +2506,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10078247-zingo_lds_plugin_unit-1.0.002.ota.ota.signed"
     },
     {
-        "fileVersion": 69635,
+        "fileVersion": 69636,
         "fileSize": 259294,
         "manufacturerCode": 4476,
         "imageType": 8708,
@@ -2514,7 +2514,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10080506-zingo_kt_bulb_hwpwmcs_ws-1.1.003.ota.ota.signed"
     },
     {
-        "fileVersion": 69633,
+        "fileVersion": 69634,
         "fileSize": 231282,
         "manufacturerCode": 4476,
         "imageType": 4364,
@@ -2522,7 +2522,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10082261-zingo_lds_starkvind-1.1.001.ota.ota.signed"
     },
     {
-        "fileVersion": 65542,
+        "fileVersion": 65543,
         "fileSize": 212454,
         "manufacturerCode": 4476,
         "imageType": 16645,
@@ -2530,7 +2530,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/10082264-zingo_lds_stoftmoln-1.0.006.ota.ota.signed"
     },
     {
-        "fileVersion": 587753009,
+        "fileVersion": 587753010,
         "fileSize": 215340,
         "manufacturerCode": 4476,
         "imageType": 16641,
@@ -2538,7 +2538,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/159495-TRADFRI-transformer-2.3.086.ota.ota.signed"
     },
     {
-        "fileVersion": 587814449,
+        "fileVersion": 587814450,
         "fileSize": 216620,
         "manufacturerCode": 4476,
         "imageType": 8706,
@@ -2546,7 +2546,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/159695-2.1-TRADFRI-bulb-ws-1000lm-2.3.095.ota.ota.signed"
     },
     {
-        "fileVersion": 587810353,
+        "fileVersion": 587810354,
         "fileSize": 207340,
         "manufacturerCode": 4476,
         "imageType": 8449,
@@ -2554,7 +2554,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/159696-TRADFRI-bulb-w-1000lm-2.3.094.ota.ota.signed"
     },
     {
-        "fileVersion": 587757105,
+        "fileVersion": 587757106,
         "fileSize": 215852,
         "manufacturerCode": 4476,
         "imageType": 16898,
@@ -2562,7 +2562,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/159697-TRADFRI-driver-hp-2.3.087.ota.ota.signed"
     },
     {
-        "fileVersion": 587757105,
+        "fileVersion": 587757106,
         "fileSize": 215596,
         "manufacturerCode": 4476,
         "imageType": 16897,
@@ -2570,7 +2570,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/159698-TRADFRI-driver-lp-2.3.087.ota.ota.signed"
     },
     {
-        "fileVersion": 604241925,
+        "fileVersion": 604241926,
         "fileSize": 207084,
         "manufacturerCode": 4476,
         "imageType": 4545,
@@ -2578,7 +2578,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/159699-5.1-TRADFRI-remote-control-24.4.5.ota.ota.signed"
     },
     {
-        "fileVersion": 604241925,
+        "fileVersion": 604241926,
         "fileSize": 214316,
         "manufacturerCode": 4476,
         "imageType": 4548,
@@ -2586,7 +2586,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/159700-TRADFRI-motion-sensor-24.4.5.ota.ota.signed"
     },
     {
-        "fileVersion": 587367985,
+        "fileVersion": 587367986,
         "fileSize": 179390,
         "manufacturerCode": 4476,
         "imageType": 4546,
@@ -2594,7 +2594,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/159701-2.1-TRADFRI-wireless-dimmer-2.3.028.ota.ota.signed"
     },
     {
-        "fileVersion": 374866365,
+        "fileVersion": 374866366,
         "fileSize": 169662,
         "manufacturerCode": 4476,
         "imageType": 2,
@@ -2602,7 +2602,7 @@
         "url": "http://fw.ota.homesmart.ikea.net/global/GW1.0/01.19.046/bin/190579-ncp_572_445.ebl.ota.ota.signed"
     },
     {
-        "fileVersion": 587798065,
+        "fileVersion": 587798066,
         "fileSize": 214572,
         "manufacturerCode": 4476,
         "imageType": 16899,
